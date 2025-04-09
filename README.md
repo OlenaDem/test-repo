@@ -19,4 +19,4 @@ For reference **[link](https://www.markdownguide.org)**
 
 **More about me**
 
-email: olena.Demchenko@dci.com
+email: olena.Dem@dci.com
