@@ -16,3 +16,7 @@
 - CSS <img  align="centr" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" heigh="40" width="40"/>
 
 For reference **[link](https://www.markdownguide.org)**
+
+**More about me**
+
+email: olena.Demchenko@dci.com
